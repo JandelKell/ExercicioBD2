@@ -1,3 +1,5 @@
+package Clientes;
+
 import java.util.Scanner;
 
 public class ClientEntrada implements Cliente{

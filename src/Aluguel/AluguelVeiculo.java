@@ -1,4 +1,6 @@
-public class AluguelVeiculo implements Alugel{
+package Aluguel;
+
+public class AluguelVeiculo implements Alugel {
     String tipopessoa;
     String tipocarro;
     int diarias;

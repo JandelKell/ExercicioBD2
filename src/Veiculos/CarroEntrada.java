@@ -1,3 +1,5 @@
+package Veiculos;
+
 import java.util.Scanner;
 
 public class CarroEntrada implements Carro{

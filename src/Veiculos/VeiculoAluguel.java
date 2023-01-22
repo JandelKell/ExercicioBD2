@@ -1,3 +1,5 @@
+package Veiculos;
+
 public interface VeiculoAluguel {
     default double getValor(){
         return 1;

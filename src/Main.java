@@ -1,3 +1,7 @@
+import Aluguel.*;
+import Clientes.*;
+import Veiculos.*;
+
 import java.util.Scanner;
 
 public class Main {
@@ -10,7 +14,7 @@ public class Main {
         System.out.println("digite as diarias");
         int diarias = scan.nextInt();
         Alugel aluguel = new AluguelVeiculo(pessoa.getTipo(), veiculo.getTipo(), diarias, veiculo.getValor());
-        System.out.println("o valor base do aluguel é" + veiculo.getValor());
-        System.out.println("valor com desconto:"+ aluguel.getValor());
+        System.out.println("O valor base do aluguel é: " + veiculo.getValor());
+        System.out.println("valor com desconto: "+ aluguel.getValor());
     }
 }

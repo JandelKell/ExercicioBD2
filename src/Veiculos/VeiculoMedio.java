@@ -1,7 +1,9 @@
-public class VeiculoSuv extends Veiculo implements VeiculoAluguel {
-    public VeiculoSuv() {
-        this.tipocarro = "SUV";
-        this.valor = 200;
+package Veiculos;
+
+public class VeiculoMedio extends Veiculo implements VeiculoAluguel {
+
+    public VeiculoMedio() {
+        this.valor = 150;
     }
 
     @Override
@@ -14,3 +16,5 @@ public class VeiculoSuv extends Veiculo implements VeiculoAluguel {
         return this.tipocarro;
     }
 }
+
+

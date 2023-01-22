@@ -1,3 +1,5 @@
+package Clientes;
+
 public class PessoaJuridica extends Pessoas implements PessoasAluguel{
 
     public PessoaJuridica() {

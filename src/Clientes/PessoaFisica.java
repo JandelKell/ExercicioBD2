@@ -1,3 +1,5 @@
+package Clientes;
+
 public class PessoaFisica extends Pessoas implements PessoasAluguel{
     public PessoaFisica() {
         this.tipopessoa = "fisica";

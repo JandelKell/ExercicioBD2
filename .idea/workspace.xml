@@ -4,30 +4,24 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="983ab68d-4433-491f-99a1-21fff101dd67" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExercicioBD2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Alugel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AluguelVeiculo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Carro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CarroEntrada.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ClientEntrada.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Cliente.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PessoaFisica.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PessoaJuridica.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Pessoas.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PessoasAluguel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Veiculo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/VeiculoAluguel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/VeiculoMedio.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/VeiculoPequeno.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/VeiculoSuv.java" afterDir="false" />
+    <list default="true" id="983ab68d-4433-491f-99a1-21fff101dd67" name="Changes" comment="v.0.1">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Alugel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aluguel/Alugel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AluguelVeiculo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aluguel/AluguelVeiculo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Carro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Veiculos/Carro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CarroEntrada.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Veiculos/CarroEntrada.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ClientEntrada.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Clientes/ClientEntrada.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Cliente.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Clientes/Cliente.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PessoaFisica.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Clientes/PessoaFisica.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PessoaJuridica.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Clientes/PessoaJuridica.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Pessoas.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Clientes/Pessoas.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PessoasAluguel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Clientes/PessoasAluguel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Veiculo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Veiculos/Veiculo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/VeiculoAluguel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Veiculos/VeiculoAluguel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/VeiculoMedio.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Veiculos/VeiculoMedio.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/VeiculoPequeno.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Veiculos/VeiculoPequeno.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/VeiculoSuv.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Veiculos/VeiculoSuv.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,6 +69,14 @@
       <option name="presentableId" value="Default" />
       <updated>1674251560358</updated>
     </task>
+    <task id="LOCAL-00001" summary="v.0.1">
+      <created>1674404420350</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1674404420350</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -87,5 +89,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="v.0.1" />
+    <option name="LAST_COMMIT_MESSAGE" value="v.0.1" />
   </component>
 </project>
